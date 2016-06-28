@@ -1,0 +1,375 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C0E417801C9DB6D3001F4479 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C0E4177F1C9DB6D3001F4479 /* main.m */; };
+		C0E417831C9DB6D3001F4479 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C0E417821C9DB6D3001F4479 /* AppDelegate.m */; };
+		C0E417851C9DB6D3001F4479 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C0E417841C9DB6D3001F4479 /* Assets.xcassets */; };
+		C0E417881C9DB6D3001F4479 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0E417861C9DB6D3001F4479 /* LaunchScreen.storyboard */; };
+		C0E417921C9DB72E001F4479 /* AGTBelenViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C0E417901C9DB72E001F4479 /* AGTBelenViewController.m */; };
+		C0E417931C9DB72E001F4479 /* AGTBelenViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C0E417911C9DB72E001F4479 /* AGTBelenViewController.xib */; };
+		C0E417991C9DBFA1001F4479 /* 3833.esteban.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C0E417951C9DBFA1001F4479 /* 3833.esteban.jpg */; };
+		C0E4179A1C9DBFA1001F4479 /* 151133933.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C0E417961C9DBFA1001F4479 /* 151133933.jpg */; };
+		C0E4179B1C9DBFA1001F4479 /* bel_n_esteban.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C0E417971C9DBFA1001F4479 /* bel_n_esteban.jpg */; };
+		C0E4179C1C9DBFA1001F4479 /* belen-esteban-fea.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C0E417981C9DBFA1001F4479 /* belen-esteban-fea.jpg */; };
+		C0E417A01C9DC0E7001F4479 /* crackedGlass.png in Resources */ = {isa = PBXBuildFile; fileRef = C0E4179F1C9DC0E7001F4479 /* crackedGlass.png */; };
+		C0E417D11C9DC716001F4479 /* crackedGlass2.png in Resources */ = {isa = PBXBuildFile; fileRef = C0E417D01C9DC716001F4479 /* crackedGlass2.png */; };
+		C0E417D31C9DC81C001F4479 /* bloodWound.png in Resources */ = {isa = PBXBuildFile; fileRef = C0E417D21C9DC81C001F4479 /* bloodWound.png */; };
+		C0E417D81C9DCB85001F4479 /* tape1.png in Resources */ = {isa = PBXBuildFile; fileRef = C0E417D41C9DCB85001F4479 /* tape1.png */; };
+		C0E417D91C9DCB85001F4479 /* tape2.png in Resources */ = {isa = PBXBuildFile; fileRef = C0E417D51C9DCB85001F4479 /* tape2.png */; };
+		C0E417DA1C9DCB85001F4479 /* tape3.png in Resources */ = {isa = PBXBuildFile; fileRef = C0E417D61C9DCB85001F4479 /* tape3.png */; };
+		C0E417DB1C9DCB85001F4479 /* tape4.png in Resources */ = {isa = PBXBuildFile; fileRef = C0E417D71C9DCB85001F4479 /* tape4.png */; };
+		C0E417E11C9DD584001F4479 /* machineGunLoop.wav in Resources */ = {isa = PBXBuildFile; fileRef = C0E417DC1C9DD584001F4479 /* machineGunLoop.wav */; };
+		C0E417E21C9DD584001F4479 /* niQueFueraYoBinLaden.m4a in Resources */ = {isa = PBXBuildFile; fileRef = C0E417DD1C9DD584001F4479 /* niQueFueraYoBinLaden.m4a */; };
+		C0E417E31C9DD584001F4479 /* punch.wav in Resources */ = {isa = PBXBuildFile; fileRef = C0E417DE1C9DD584001F4479 /* punch.wav */; };
+		C0E417E41C9DD584001F4479 /* tape.caf in Resources */ = {isa = PBXBuildFile; fileRef = C0E417DF1C9DD584001F4479 /* tape.caf */; };
+		C0E417E51C9DD584001F4479 /* untape.caf in Resources */ = {isa = PBXBuildFile; fileRef = C0E417E01C9DD584001F4479 /* untape.caf */; };
+		C0E417E81C9DD5EB001F4479 /* AGTSystemSounds.m in Sources */ = {isa = PBXBuildFile; fileRef = C0E417E71C9DD5EB001F4479 /* AGTSystemSounds.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		C0E4177B1C9DB6D3001F4479 /* AngryEsteban.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AngryEsteban.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C0E4177F1C9DB6D3001F4479 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		C0E417811C9DB6D3001F4479 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		C0E417821C9DB6D3001F4479 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		C0E417841C9DB6D3001F4479 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C0E417871C9DB6D3001F4479 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		C0E417891C9DB6D3001F4479 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C0E4178F1C9DB72E001F4479 /* AGTBelenViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AGTBelenViewController.h; sourceTree = "<group>"; };
+		C0E417901C9DB72E001F4479 /* AGTBelenViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AGTBelenViewController.m; sourceTree = "<group>"; };
+		C0E417911C9DB72E001F4479 /* AGTBelenViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AGTBelenViewController.xib; sourceTree = "<group>"; };
+		C0E417951C9DBFA1001F4479 /* 3833.esteban.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3833.esteban.jpg; sourceTree = "<group>"; };
+		C0E417961C9DBFA1001F4479 /* 151133933.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 151133933.jpg; sourceTree = "<group>"; };
+		C0E417971C9DBFA1001F4479 /* bel_n_esteban.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bel_n_esteban.jpg; sourceTree = "<group>"; };
+		C0E417981C9DBFA1001F4479 /* belen-esteban-fea.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "belen-esteban-fea.jpg"; sourceTree = "<group>"; };
+		C0E4179F1C9DC0E7001F4479 /* crackedGlass.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = crackedGlass.png; sourceTree = "<group>"; };
+		C0E417D01C9DC716001F4479 /* crackedGlass2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = crackedGlass2.png; sourceTree = "<group>"; };
+		C0E417D21C9DC81C001F4479 /* bloodWound.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bloodWound.png; sourceTree = "<group>"; };
+		C0E417D41C9DCB85001F4479 /* tape1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tape1.png; sourceTree = "<group>"; };
+		C0E417D51C9DCB85001F4479 /* tape2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tape2.png; sourceTree = "<group>"; };
+		C0E417D61C9DCB85001F4479 /* tape3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tape3.png; sourceTree = "<group>"; };
+		C0E417D71C9DCB85001F4479 /* tape4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tape4.png; sourceTree = "<group>"; };
+		C0E417DC1C9DD584001F4479 /* machineGunLoop.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = machineGunLoop.wav; sourceTree = "<group>"; };
+		C0E417DD1C9DD584001F4479 /* niQueFueraYoBinLaden.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = niQueFueraYoBinLaden.m4a; sourceTree = "<group>"; };
+		C0E417DE1C9DD584001F4479 /* punch.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = punch.wav; sourceTree = "<group>"; };
+		C0E417DF1C9DD584001F4479 /* tape.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = tape.caf; sourceTree = "<group>"; };
+		C0E417E01C9DD584001F4479 /* untape.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = untape.caf; sourceTree = "<group>"; };
+		C0E417E61C9DD5EB001F4479 /* AGTSystemSounds.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AGTSystemSounds.h; sourceTree = "<group>"; };
+		C0E417E71C9DD5EB001F4479 /* AGTSystemSounds.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AGTSystemSounds.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C0E417781C9DB6D3001F4479 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C0E417721C9DB6D3001F4479 = {
+			isa = PBXGroup;
+			children = (
+				C0E4177D1C9DB6D3001F4479 /* AngryEsteban */,
+				C0E4177C1C9DB6D3001F4479 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C0E4177C1C9DB6D3001F4479 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C0E4177B1C9DB6D3001F4479 /* AngryEsteban.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C0E4177D1C9DB6D3001F4479 /* AngryEsteban */ = {
+			isa = PBXGroup;
+			children = (
+				C0E417941C9DBF6C001F4479 /* Resources */,
+				C0E417811C9DB6D3001F4479 /* AppDelegate.h */,
+				C0E417821C9DB6D3001F4479 /* AppDelegate.m */,
+				C0E417841C9DB6D3001F4479 /* Assets.xcassets */,
+				C0E417861C9DB6D3001F4479 /* LaunchScreen.storyboard */,
+				C0E417891C9DB6D3001F4479 /* Info.plist */,
+				C0E4177E1C9DB6D3001F4479 /* Supporting Files */,
+			);
+			path = AngryEsteban;
+			sourceTree = "<group>";
+		};
+		C0E4177E1C9DB6D3001F4479 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				C0E417E61C9DD5EB001F4479 /* AGTSystemSounds.h */,
+				C0E417E71C9DD5EB001F4479 /* AGTSystemSounds.m */,
+				C0E4178F1C9DB72E001F4479 /* AGTBelenViewController.h */,
+				C0E417901C9DB72E001F4479 /* AGTBelenViewController.m */,
+				C0E417911C9DB72E001F4479 /* AGTBelenViewController.xib */,
+				C0E4177F1C9DB6D3001F4479 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		C0E417941C9DBF6C001F4479 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				C0E417DC1C9DD584001F4479 /* machineGunLoop.wav */,
+				C0E417DD1C9DD584001F4479 /* niQueFueraYoBinLaden.m4a */,
+				C0E417DE1C9DD584001F4479 /* punch.wav */,
+				C0E417DF1C9DD584001F4479 /* tape.caf */,
+				C0E417E01C9DD584001F4479 /* untape.caf */,
+				C0E417D41C9DCB85001F4479 /* tape1.png */,
+				C0E417D51C9DCB85001F4479 /* tape2.png */,
+				C0E417D61C9DCB85001F4479 /* tape3.png */,
+				C0E417D71C9DCB85001F4479 /* tape4.png */,
+				C0E417D21C9DC81C001F4479 /* bloodWound.png */,
+				C0E417D01C9DC716001F4479 /* crackedGlass2.png */,
+				C0E4179F1C9DC0E7001F4479 /* crackedGlass.png */,
+				C0E417951C9DBFA1001F4479 /* 3833.esteban.jpg */,
+				C0E417961C9DBFA1001F4479 /* 151133933.jpg */,
+				C0E417971C9DBFA1001F4479 /* bel_n_esteban.jpg */,
+				C0E417981C9DBFA1001F4479 /* belen-esteban-fea.jpg */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C0E4177A1C9DB6D3001F4479 /* AngryEsteban */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C0E4178C1C9DB6D4001F4479 /* Build configuration list for PBXNativeTarget "AngryEsteban" */;
+			buildPhases = (
+				C0E417771C9DB6D3001F4479 /* Sources */,
+				C0E417781C9DB6D3001F4479 /* Frameworks */,
+				C0E417791C9DB6D3001F4479 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AngryEsteban;
+			productName = AngryEsteban;
+			productReference = C0E4177B1C9DB6D3001F4479 /* AngryEsteban.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C0E417731C9DB6D3001F4479 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = "Alicia Daza";
+				TargetAttributes = {
+					C0E4177A1C9DB6D3001F4479 = {
+						CreatedOnToolsVersion = 7.2.1;
+					};
+				};
+			};
+			buildConfigurationList = C0E417761C9DB6D3001F4479 /* Build configuration list for PBXProject "AngryEsteban" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C0E417721C9DB6D3001F4479;
+			productRefGroup = C0E4177C1C9DB6D3001F4479 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C0E4177A1C9DB6D3001F4479 /* AngryEsteban */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C0E417791C9DB6D3001F4479 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C0E417E41C9DD584001F4479 /* tape.caf in Resources */,
+				C0E417D81C9DCB85001F4479 /* tape1.png in Resources */,
+				C0E417991C9DBFA1001F4479 /* 3833.esteban.jpg in Resources */,
+				C0E417E21C9DD584001F4479 /* niQueFueraYoBinLaden.m4a in Resources */,
+				C0E417D11C9DC716001F4479 /* crackedGlass2.png in Resources */,
+				C0E417D31C9DC81C001F4479 /* bloodWound.png in Resources */,
+				C0E417E11C9DD584001F4479 /* machineGunLoop.wav in Resources */,
+				C0E417DA1C9DCB85001F4479 /* tape3.png in Resources */,
+				C0E4179A1C9DBFA1001F4479 /* 151133933.jpg in Resources */,
+				C0E417DB1C9DCB85001F4479 /* tape4.png in Resources */,
+				C0E417E51C9DD584001F4479 /* untape.caf in Resources */,
+				C0E417A01C9DC0E7001F4479 /* crackedGlass.png in Resources */,
+				C0E4179C1C9DBFA1001F4479 /* belen-esteban-fea.jpg in Resources */,
+				C0E417851C9DB6D3001F4479 /* Assets.xcassets in Resources */,
+				C0E417D91C9DCB85001F4479 /* tape2.png in Resources */,
+				C0E4179B1C9DBFA1001F4479 /* bel_n_esteban.jpg in Resources */,
+				C0E417881C9DB6D3001F4479 /* LaunchScreen.storyboard in Resources */,
+				C0E417931C9DB72E001F4479 /* AGTBelenViewController.xib in Resources */,
+				C0E417E31C9DD584001F4479 /* punch.wav in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C0E417771C9DB6D3001F4479 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C0E417831C9DB6D3001F4479 /* AppDelegate.m in Sources */,
+				C0E417E81C9DD5EB001F4479 /* AGTSystemSounds.m in Sources */,
+				C0E417801C9DB6D3001F4479 /* main.m in Sources */,
+				C0E417921C9DB72E001F4479 /* AGTBelenViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		C0E417861C9DB6D3001F4479 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C0E417871C9DB6D3001F4479 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C0E4178A1C9DB6D3001F4479 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C0E4178B1C9DB6D3001F4479 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C0E4178D1C9DB6D4001F4479 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = AngryEsteban/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.keepcodingalumni.AngryEsteban;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		C0E4178E1C9DB6D4001F4479 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = AngryEsteban/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.keepcodingalumni.AngryEsteban;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C0E417761C9DB6D3001F4479 /* Build configuration list for PBXProject "AngryEsteban" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C0E4178A1C9DB6D3001F4479 /* Debug */,
+				C0E4178B1C9DB6D3001F4479 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C0E4178C1C9DB6D4001F4479 /* Build configuration list for PBXNativeTarget "AngryEsteban" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C0E4178D1C9DB6D4001F4479 /* Debug */,
+				C0E4178E1C9DB6D4001F4479 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C0E417731C9DB6D3001F4479 /* Project object */;
+}
